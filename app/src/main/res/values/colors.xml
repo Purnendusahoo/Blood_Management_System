@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d50000</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#6CACF1</color>
+    <color name="primary">#E7FFF5</color>
+    <color name="primary_dark">#752921</color>
+    <color name="transparent_black_ten_percent">#1AE32424</color>
+    <color name="redd">#ff6611</color>
+    <color name="rmbo">#E42B2B</color>
+</resources>
